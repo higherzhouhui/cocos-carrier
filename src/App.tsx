@@ -26,6 +26,7 @@ const {
   RPC_SERVER_TDVV,
   RPC_SERVER_TDVW,
   PORTKEY_SERVER_URL,
+  TELEGRAM_BOT_ID,
 } = loginConfig;
 
 const didConfig = {
@@ -42,6 +43,7 @@ const didConfig = {
       websiteIcon: WEBSITE_ICON,
     },
   },
+  botId: TELEGRAM_BOT_ID,
 };
 
 const baseConfig: IConfigProps["baseConfig"] = {

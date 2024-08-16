@@ -12,3 +12,5 @@ export const GRAPHQL_SERVER =
 export const CONNECT_SERVER = "https://auth-aa-portkey-test.portkey.finance";
 
 export const PORTKEY_SERVER_URL = "https://aa-portkey-test.portkey.finance";
+
+export const TELEGRAM_BOT_ID = import.meta.env.VITE_TELEGRAM_BOT_ID;
