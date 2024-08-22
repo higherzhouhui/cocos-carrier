@@ -38,6 +38,7 @@ const App: React.FC = () => {
     <div>
       <div>
         <button onClick={() => navigate("/assets")}>Assets</button>
+        <button onClick={() => require("vconsole")}>Assets</button>
       </div>
       {/* <button onClick={OnInpageClick}>inpage</button>
       <button onClick={OnConentClick}>conent</button> */}
