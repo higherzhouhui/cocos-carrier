@@ -37,6 +37,10 @@ const didConfig = {
       botId: "7347235270", // TELEGRAM_BOT_ID
     },
   },
+  referralInfo: {
+    referralCode: "xxx", // Invitation code can be generated according to user's customization.
+    projectCode: "xxx",
+  },
 };
 
 const baseConfig: IConfigProps["baseConfig"] = {
