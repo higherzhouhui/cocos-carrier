@@ -34,7 +34,7 @@ const didConfig = {
       websiteIcon: WEBSITE_ICON,
     },
     Telegram: {
-      botId: "7347235270", // TELEGRAM_BOT_ID
+      botId: "7377398938", // TELEGRAM_BOT_ID
     },
   },
   referralInfo: {
