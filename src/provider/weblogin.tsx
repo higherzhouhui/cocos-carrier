@@ -17,7 +17,7 @@ const {
   RPC_SERVER_TDVV,
   RPC_SERVER_TDVW,
   PORTKEY_SERVER_URL,
-  // TELEGRAM_BOT_ID,
+  TELEGRAM_BOT_ID,
 } = loginConfig;
 
 const didConfig = {
@@ -34,7 +34,7 @@ const didConfig = {
       websiteIcon: WEBSITE_ICON,
     },
     Telegram: {
-      botId: "7377398938", // TELEGRAM_BOT_ID
+      botId: TELEGRAM_BOT_ID
     },
   },
   referralInfo: {
